@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: rgb(39, 39, 39);
+    color: #fff;
+}
+
+h1, h2 {
+    margin-bottom: -0.5rem;
+    padding: 0;
+}
